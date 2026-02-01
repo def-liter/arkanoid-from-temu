@@ -1,1 +1,1 @@
-# arkanoid-from-temu
+THIS IS A ARKANOID CLONE THAT I MADE IN @ DAYS FOR FUN
